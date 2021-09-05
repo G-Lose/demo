@@ -5,6 +5,7 @@
       <router-link to="/about">About</router-link> | 
       <router-link to="/classsify">classsify</router-link> |   
       <router-link to="/component">Component</router-link> |
+      <router-link to="/cart">Cart</router-link> |
     </div>
     <router-view />
   </div>
