@@ -2,7 +2,7 @@
     <div>购物车</div>
 </template>
 <script>
-export default {s
+export default {
     data(){
         return{
 
