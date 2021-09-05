@@ -2,13 +2,13 @@
     <div>购物车</div>
 </template>
 <script>
-export default {
+export default {s
     data(){
         return{
-            list:[]
+
         }
     },
-    method:{
+    methods: {
         hit(){
             let obj = {a:"bbs"}
             let objData = Object.assign({},obj,{c:"ccccc","dd":"ddddds"})
