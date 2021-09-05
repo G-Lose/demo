@@ -15,5 +15,9 @@ export default {
             console.log(objData,'objdatas')
         }
     },
+    created(){
+        this.hit()
+
+    }
 }
 </script>
