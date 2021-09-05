@@ -6,6 +6,8 @@
       <router-link to="/classsify">classsify</router-link> |   
       <router-link to="/component">Component</router-link> |
       <router-link to="/cart">Cart</router-link> |
+      <router-link to="/list">classsify</router-link> |
+
     </div>
     <router-view />
   </div>
