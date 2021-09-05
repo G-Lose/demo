@@ -9,8 +9,9 @@ export default {
         }
     },
     created(){
-        let prams = "xiaolan"
-        console.log(prams,"prams")
+        // let prams = "xiaolan"
+        // console.log(prams,"prams")
+        let prams = "小旺旺"
     }
 }
 </script>
